@@ -1,0 +1,18 @@
+body {
+  --kk-1: #2c78cc;
+  --kk-2: #459bff;
+  --kk-g: #67686a;
+  --thin-n: rgb(0, 0, 0, 0.05);
+  --thin-0: rgb(0, 0, 0, 0.1);
+  --thin-1: rgba(103, 96, 96, 0.34);
+
+  --cardbon-1: #2c3034;
+  --cardbon-2: #262a2e;
+
+  --header-height: 4rem;
+}
+
+.App {
+  height: 100%;
+}
+
